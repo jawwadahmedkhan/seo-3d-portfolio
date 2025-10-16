@@ -205,7 +205,7 @@ const Header = ({ socialLinks }) => {
       <div className="nav-container">
         <div className="logo">
           <i className="fas fa-search" style={{marginRight: '8px'}}></i>
-          JAK SEO
+          
         </div>
         <nav>
           <ul className="nav-menu">
