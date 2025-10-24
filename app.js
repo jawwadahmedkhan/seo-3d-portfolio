@@ -79,7 +79,7 @@ const portfolioData = {
       title: "Affiliate Website SEO & Monetization Growth",
       description: "Scaled a niche affiliate website's traffic and revenue with white-hat SEO and conversion rate optimization.",
       techStack: ["Ahrefs", "SimilarWeb", "Rank Math", "Canva", "Google AdSense"],
-      achievements: ["3x affiliate revenue increase", "600+ keyword portfolio expansion", "Multiple top-5 rankings for buyer-intent keywords"]
+      achievements: ["3x affiliate revenue increase", "600+ keyword  expansion", "Multiple top-5 rankings for buyer-intent keywords"]
     }
   ]
 };
@@ -243,10 +243,7 @@ const HeroSection = ({ personalInfo, socialLinks, heroTools }) => {
         <ThreeBackground heroTools={heroTools} />
       </div>
       <div className="hero-content">
-        <div className="hero-profile">
-          <i className="fas fa-user-tie"></i>
-        </div>
-        <h1 className="hero-title">{personalInfo.title} Portfolio</h1>
+        <h1 className="hero-title">{personalInfo.titleo</h1>
         <p className="hero-tagline">{personalInfo.tagline}</p>
         <p className="hero-description">{personalInfo.bio}</p>
         <a href={socialLinks.upwork} className="cta-button" target="_blank" rel="noopener noreferrer">
