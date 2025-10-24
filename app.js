@@ -243,7 +243,7 @@ const HeroSection = ({ personalInfo, socialLinks, heroTools }) => {
         <ThreeBackground heroTools={heroTools} />
       </div>
       <div className="hero-content">
-        <h1 className="hero-title">{personalInfo.titleo</h1>
+        <h1 className="hero-title">{personalInfo.titl}e</h1>
         <p className="hero-tagline">{personalInfo.tagline}</p>
         <p className="hero-description">{personalInfo.bio}</p>
         <a href={socialLinks.upwork} className="cta-button" target="_blank" rel="noopener noreferrer">
