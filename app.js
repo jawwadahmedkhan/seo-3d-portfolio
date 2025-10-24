@@ -5,7 +5,7 @@ const { createRoot } = ReactDOM;
 const portfolioData = {
   personalInfo: {
     name: "Jawwad Ahmed Khan",
-    title: "SEO Specialist",
+    title: "Lead SEO Specialist",
     tagline: "Providing the best SEO Solutions",
     bio: "I'm an SEO Specialist with experience in Website SEO Audits, Schema, On-Page & Technical SEO, Off-Page SEO, Voice SEO, Local SEO, Ecommerce SEO, Content Optimization. Click below for Pricings."
   },
