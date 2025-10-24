@@ -17,8 +17,8 @@ const portfolioData = {
   },
   navigation: ["About Me", "Skills", "Projects", "Blogs", "FAQs", "Contact"],
   heroTools: [
-    "Google Search Console", "Google Analytics", "Perplexity", "Semrush", 
-    "Ahrefs", "Rank Math", "Google Ads", "SE Ranking", "Looker Studio", "Google Trends"
+    "Keyword Research", "On-Page SEO", "Technical SEO", "Link Building", 
+      "Content Strategy", "Schema Markup", "Core Web Vitals", "Local SEO", "Analytics", "SERP Tracking"
   ],
   skillsTools: [
     { name: "Google Search Console", category: "Analytics" },
