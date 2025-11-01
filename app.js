@@ -7,8 +7,8 @@ const portfolioData = {
   personalInfo: {
     name: "Jawwad Ahmed Khan",
     title: "Lead SEO Specialist",
-    tagline: "Providing Proven SEO Solutions for Growth",
-    bio: "Unlock higher rankings, more traffic, and real business results. As an experienced SEO specialist, I deliver:\n\n- Comprehensive Website SEO Audits\n- On-Page & Technical SEO Optimization\n- Schema Implementation\n- Off-Page & Voice Search SEO\n- Local & Ecommerce SEO Strategies\n- AI-Driven SEO and Content Optimization\n\nReady to elevate your website’s visibility and sales?\nClick below for custom pricing and a FREE mini audit."
+    tagline: "Providing the best SEO Solutions",
+    bio: "I'm an SEO Specialist with experience in Website SEO Audits, Schema, On-Page & Technical SEO, Off-Page SEO, Voice SEO, Local SEO, Ecommerce SEO, Content Optimization. Click below for Pricings."
   },
   socialLinks: {
     whatsapp: "https://wa.me/+923180840075",
@@ -51,5 +51,4 @@ const portfolioData = {
     title: "Safe. Secure. Search-Ready.",
   }
 };
-
 // The rest of the file remains unchanged below...
